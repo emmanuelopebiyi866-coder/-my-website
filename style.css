@@ -1,14 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>My Website</title>
-</head>
+body{
+background:#0f172a;
+color:white;
+font-family:Arial;
+text-align:center;
+padding-top:120px;
+}
 
-<body>
+h1{
+font-size:40px;
+}
 
-<h1>Welcome to My Website</h1>
+p{
+font-size:18px;
+}
 
-<p>This is my first website.</p>
-
-</body>
-</html>
+button{
+background:#ff6b00;
+color:white;
+border:none;
+padding:15px 25px;
+border-radius:12px;
+font-size:18px;
+}
